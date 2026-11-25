@@ -1,0 +1,41 @@
+PASS watermark 星z座z屋
+PASS watermark 星$座$屋
+PASS watermark 星 Z 座 Z 屋
+PASS watermark 星座屋
+PASS multi-paragraph localized notes zh-CN
+PASS multi-paragraph localized notes zh-TW
+PASS multi-paragraph localized notes en
+PASS multi-paragraph localized notes ko
+PASS multi-paragraph localized notes ja
+PASS desktop add uses inline action glass
+PASS editor inside plan component glass
+PASS new editor follows last row and aligns glass
+PASS row delete and draft cancel targets glass
+PASS no task dialog opened glass
+PASS todo persisted glass
+PASS new todo visible after save glass
+PASS failed save retains draft glass
+PASS delete persists glass
+PASS long list editor remains visible glass
+PASS desktop add uses inline action glass-light
+PASS editor inside plan component glass-light
+PASS new editor follows last row and aligns glass-light
+PASS row delete and draft cancel targets glass-light
+PASS no task dialog opened glass-light
+PASS todo persisted glass-light
+PASS new todo visible after save glass-light
+PASS failed save retains draft glass-light
+PASS delete persists glass-light
+PASS long list editor remains visible glass-light
+PASS desktop add uses inline action rose
+PASS editor inside plan component rose
+PASS new editor follows last row and aligns rose
+PASS row delete and draft cancel targets rose
+PASS no task dialog opened rose
+PASS todo persisted rose
+PASS new todo visible after save rose
+PASS failed save retains draft rose
+PASS delete persists rose
+PASS long list editor remains visible rose
+PASS no lower close button in divination result
+PASS five expanded category readings

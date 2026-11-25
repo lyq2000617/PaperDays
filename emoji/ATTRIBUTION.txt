@@ -1,0 +1,8 @@
+Twemoji graphics v16.0.1. Copyright Twitter, Inc. and other contributors.
+Source: https://github.com/jdecked/twemoji/tree/v16.0.1
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+PNG files are unmodified.
+
+Single-color icons: Tabler Icons v3 outline paths, stored in line-icons.txt.
+Source: https://github.com/tabler/tabler-icons
+License: MIT, see LICENSE-TABLER.txt

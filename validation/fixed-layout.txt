@@ -1,0 +1,63 @@
+PASS content starts in lower two-thirds glass220
+PASS wheel area confined inside glass glass220
+PASS start and clear same row glass220
+PASS tabs fixed outside scroll glass220
+PASS header stays fixed while content scrolls glass220
+PASS content starts in lower two-thirds glass280
+PASS wheel area confined inside glass glass280
+PASS start and clear same row glass280
+PASS tabs fixed outside scroll glass280
+PASS header stays fixed while content scrolls glass280
+PASS content starts in lower two-thirds glass360
+PASS wheel area confined inside glass glass360
+PASS start and clear same row glass360
+PASS tabs fixed outside scroll glass360
+PASS header stays fixed while content scrolls glass360
+PASS content starts in lower two-thirds glass-light220
+PASS wheel area confined inside glass glass-light220
+PASS start and clear same row glass-light220
+PASS tabs fixed outside scroll glass-light220
+PASS header stays fixed while content scrolls glass-light220
+PASS content starts in lower two-thirds glass-light280
+PASS wheel area confined inside glass glass-light280
+PASS start and clear same row glass-light280
+PASS tabs fixed outside scroll glass-light280
+PASS header stays fixed while content scrolls glass-light280
+PASS content starts in lower two-thirds glass-light360
+PASS wheel area confined inside glass glass-light360
+PASS start and clear same row glass-light360
+PASS tabs fixed outside scroll glass-light360
+PASS header stays fixed while content scrolls glass-light360
+PASS content starts in lower two-thirds rose220
+PASS wheel area confined inside glass rose220
+PASS start and clear same row rose220
+PASS tabs fixed outside scroll rose220
+PASS header stays fixed while content scrolls rose220
+PASS content starts in lower two-thirds rose280
+PASS wheel area confined inside glass rose280
+PASS start and clear same row rose280
+PASS tabs fixed outside scroll rose280
+PASS header stays fixed while content scrolls rose280
+PASS content starts in lower two-thirds rose360
+PASS wheel area confined inside glass rose360
+PASS start and clear same row rose360
+PASS tabs fixed outside scroll rose360
+PASS header stays fixed while content scrolls rose360
+PASS horoscope starts at top stone
+PASS one vertical scrollbar stone360
+PASS no unwanted horizontal scrollbar stone360
+PASS stable font stone360
+PASS one vertical scrollbar stone580
+PASS no unwanted horizontal scrollbar stone580
+PASS stable font stone580
+SCROLL {X=0,Y=-2635} min={Width=0, Height=3061} close={X=160,Y=432} size={Width=88, Height=36} page={Width=561, Height=426}
+PASS bottom controls reachable stone
+PASS horoscope starts at top glass-light
+PASS one vertical scrollbar glass-light360
+PASS no unwanted horizontal scrollbar glass-light360
+PASS stable font glass-light360
+PASS one vertical scrollbar glass-light580
+PASS no unwanted horizontal scrollbar glass-light580
+PASS stable font glass-light580
+SCROLL {X=0,Y=-2635} min={Width=0, Height=3061} close={X=160,Y=432} size={Width=88, Height=36} page={Width=561, Height=426}
+PASS bottom controls reachable glass-light
